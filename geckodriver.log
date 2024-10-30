@@ -1,0 +1,660 @@
+1730268491578	geckodriver	INFO	Listening on 127.0.0.1:39531
+1730268492090	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "58309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekENlht"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268493016	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268493177	Marionette	INFO	Listening on port 35901
+Read port: 35901
+WebDriver BiDi listening on ws://127.0.0.1:58309
+1730268493240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1730268494754	Marionette	INFO	Stopped listening on port 35901
+1730268518658	geckodriver	INFO	Listening on 127.0.0.1:48087
+1730268519172	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "51233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0cLkhg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268520051	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268520219	Marionette	INFO	Listening on port 46461
+WebDriver BiDi listening on ws://127.0.0.1:51233
+Read port: 46461
+1730268520372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 235: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ovyIVDwIz7QGgfE_NzKJhN_1XsOLGoe01x4KTGhRCeE.js line 2 > eval line 1694 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730268580313	geckodriver	INFO	Listening on 127.0.0.1:59973
+1730268580826	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "40955" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6EjMyC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268581672	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268581852	Marionette	INFO	Listening on port 38899
+WebDriver BiDi listening on ws://127.0.0.1:40955
+Read port: 38899
+1730268582008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 235: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://www.googletagmanager.com/gtag/destination?id=AW-16520916819&l=dataLayer&cx=c, line 113: Script terminated by timeout at:
+ib@https://www.googletagmanager.com/gtag/destination?id=AW-16520916819&l=dataLayer&cx=c:113:159
+MA@https://www.googletagmanager.com/gtag/destination?id=AW-16520916819&l=dataLayer&cx=c:566:135
+NA/<@https://www.googletagmanager.com/gtag/destination?id=AW-16520916819&l=dataLayer&cx=c:566:111
+
+1730268617568	Marionette	INFO	Stopped listening on port 38899
+[2475265] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-PQHPR22GRH&l=dataLayer&cx=c, line 658: Script terminated by timeout at:
+h.Th@https://www.googletagmanager.com/gtag/js?id=G-PQHPR22GRH&l=dataLayer&cx=c:658:30
+get@https://www.googletagmanager.com/gtag/js?id=G-PQHPR22GRH&l=dataLayer&cx=c:656:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-PQHPR22GRH&l=dataLayer&cx=c:656:87
+h.kl/c/<@https://www.googletagmanager.com/gtag/js?id=G-PQHPR22GRH&l=dataLayer&cx=c:656:410
+
+1730268622058	Marionette	INFO	Stopped listening on port 46461
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1730268650806	geckodriver	INFO	Listening on 127.0.0.1:37183
+1730268651322	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "57777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUPi5JL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268652151	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268652350	Marionette	INFO	Listening on port 42873
+WebDriver BiDi listening on ws://127.0.0.1:57777
+Read port: 42873
+1730268652535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 172: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG, line 219: Script terminated by timeout at:
+h.invoke@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:219:290
+Ia@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:187:668
+h.jl@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:187:1183
+Ce@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:252:782
+eA/<@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:644:350
+yf@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:269:92
+xf@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:265:473
+vf@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:265:81
+uf@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:264:34
+Ff/<@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:270:282
+Gf@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:270:67
+Ef@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:269:1426
+by@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:613:149
+gz@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:630:273
+jz@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:633:7
+nz/b.push@https://www.googletagmanager.com/gtm.js?id=GTM-PT747MG:637:320
+nz/b.push@https://www.googletagmanager.com/gtag/destination?id=AW-10887191134&l=dataLayer&cx=c:504:170
+nz/b.push@https://www.googletagmanager.com/gtag/destination?id=AW-11055097073&l=dataLayer&cx=c:525:170
+nz/b.push@https://www.googletagmanager.com/gtag/destination?id=AW-16520916819&l=dataLayer&cx=c:553:170
+nz/b.push@https://www.googletagmanager.com/gtag/destination?id=DC-10628736&l=dataLayer&cx=c:445:170
+nz/b.push@https://www.googletagmanager.com/gtag/destination?id=AW-10961954687&l=dataLayer&cx=c:525:170
+nz/b.push@https://www.googletagmanager.com/gtag/js?id=G-PQHPR22GRH&l=dataLayer&cx=c:594:170
+nz/b.push@https://www.googletagmanager.com/gtag/destination?id=AW-10842330635&l=dataLayer&cx=c:504:170
+h@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.render-runtime@8.134.11,ExtensionContainer&files=vtex.admin-pages@4.56.5,common,6,18,HighlightOverlay&files=tiendasjumboqaio.cencosud-google-tag-manager@1.1.2,index&files=vtexbr.tiktok-tbp@1.6.2,common,TbpPixel&files=vtex.request-capture@2.3.0,index&files=vtex.facebook-fbe@1.8.9,common,1,FbePixel&files=vtex.sae-analytics@2.16.0,common,index&files=vtex.react-vtexid@4.66.1,common,AuthServiceLazy,AuthStateLazy,RecaptchaProvider,getAbsReturnUrl,1&async=2&workspace=master:12:7211
+Ei/e/</</</<@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.render-runtime@8.134.11,ExtensionContainer&files=vtex.admin-pages@4.56.5,common,6,18,HighlightOverlay&files=tiendasjumboqaio.cencosud-google-tag-manager@1.1.2,index&files=vtexbr.tiktok-tbp@1.6.2,common,TbpPixel&files=vtex.request-capture@2.3.0,index&files=vtex.facebook-fbe@1.8.9,common,1,FbePixel&files=vtex.sae-analytics@2.16.0,common,index&files=vtex.react-vtexid@4.66.1,common,AuthServiceLazy,AuthStateLazy,RecaptchaProvider,getAbsReturnUrl,1&async=2&workspace=master:12:142597
+
+1730268717973	Marionette	INFO	Stopped listening on port 42873
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1730268760514	geckodriver	INFO	Listening on 127.0.0.1:43241
+1730268761020	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "60929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIRjzsb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268761889	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268762050	Marionette	INFO	Listening on port 33735
+WebDriver BiDi listening on ws://127.0.0.1:60929
+Read port: 33735
+1730268762204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 172: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+1730268795000	Marionette	INFO	Stopped listening on port 33735
+1730268814856	geckodriver	INFO	Listening on 127.0.0.1:58747
+1730268815356	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "59587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefCo5Xr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268816213	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730268816403	Marionette	INFO	Listening on port 35373
+WebDriver BiDi listening on ws://127.0.0.1:59587
+Read port: 35373
+1730268816565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 172: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ovyIVDwIz7QGgfE_NzKJhN_1XsOLGoe01x4KTGhRCeE.js line 2 > eval line 6526 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1730268849594	Marionette	INFO	Stopped listening on port 35373
+1730269169218	geckodriver	INFO	Listening on 127.0.0.1:53103
+1730269169723	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "33197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVl9wWl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730269170593	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730269170787	Marionette	INFO	Listening on port 35073
+WebDriver BiDi listening on ws://127.0.0.1:33197
+Read port: 35073
+1730269170941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 172: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+1730269188423	Marionette	INFO	Stopped listening on port 35073
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+[2478449] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730269209341	geckodriver	INFO	Listening on 127.0.0.1:45393
+1730269209850	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "48553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGxImw4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730269210698	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730269210872	Marionette	INFO	Listening on port 40775
+WebDriver BiDi listening on ws://127.0.0.1:48553
+Read port: 40775
+1730269211026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 172: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+1730269225570	Marionette	INFO	Stopped listening on port 40775
+JavaScript warning: https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.checkout-resources@0.50.0,MutationClearOrderFormMessages,6,QueryOrderForm,Utils&files=vtex.checkout-splunk@0.1.1,useSplunk&files=vtex.visibility-layout@0.2.1,Experimental__VisibilityLayout&files=vtex.search-page-context@0.2.0,SearchPageContext&files=vtex.css-handles@1.0.1,common,0,useCssHandles,applyModifiers,createCssHandlesContext&files=tiendasjumboqaio.jumbo-structured-data@1.0.4,common,StructuredData&files=vtex.product-context@0.10.1,common,useProduct,ProductContextProvider,useProductDispatch,ProductContext&files=vtex.list-context@0.2.0,common,ListContextProvider&async=2&workspace=master, line 18: Script terminated by timeout at:
+withModifiers@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.checkout-resources@0.50.0,MutationClearOrderFormMessages,6,QueryOrderForm,Utils&files=vtex.checkout-splunk@0.1.1,useSplunk&files=vtex.visibility-layout@0.2.1,Experimental__VisibilityLayout&files=vtex.search-page-context@0.2.0,SearchPageContext&files=vtex.css-handles@1.0.1,common,0,useCssHandles,applyModifiers,createCssHandlesContext&files=tiendasjumboqaio.jumbo-structured-data@1.0.4,common,StructuredData&files=vtex.product-context@0.10.1,common,useProduct,ProductContextProvider,useProductDispatch,ProductContext&files=vtex.list-context@0.2.0,common,ListContextProvider&async=2&workspace=master:18:3654
+k@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.product-summary@2.90.1,0,ProductSummaryListWithoutQuery,ProductSummaryCustom,ProductSummaryList,ProductSummaryBrand,ProductSummaryName,ProductSummaryImage&files=tiendasjumboqaio.delivery-modal@3.2.2,common,0,LocationVerificationAd,FormTabaco,ModalTabaco,ConditionalAddCardButton,DeliveryInfoForTrigger,2,1,DeliveryFormContent,Add2CartButton&files=vtex.search-result@3.133.1,common,4,SearchQuery&async=2&workspace=master:14:4629
+sd@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/npm/react-dom@0.0.0-experimental-94c0244ba/umd/react-dom.production.min.js?async=2&workspace=master:103:379
+fk@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/npm/react-dom@0.0.0-experimental-94c0244ba/umd/react-dom.production.min.js?async=2&workspace=master:242:358
+li@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/npm/react-dom@0.0.0-experimental-94c0244ba/umd/react-dom.production.min.js?async=2&workspace=master:177:479
+Xj@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/npm/react-dom@0.0.0-experimental-94c0244ba/umd/react-dom.production.min.js?async=2&workspace=master:177:452
+ei@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/npm/react-dom@0.0.0-experimental-94c0244ba/umd/react-dom.production.min.js?async=2&workspace=master:167:490
+T@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/npm/react@0.0.0-experimental-94c0244ba/umd/react.production.min.js?async=2&workspace=master:17:382
+va.port1.onmessage@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/npm/react@0.0.0-experimental-94c0244ba/umd/react.production.min.js?async=2&workspace=master:24:133
+
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1730269267075	geckodriver	INFO	Listening on 127.0.0.1:51115
+1730269267589	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "46323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTLql8d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730269268477	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730269268656	Marionette	INFO	Listening on port 46297
+WebDriver BiDi listening on ws://127.0.0.1:46323
+Read port: 46297
+1730269268807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 172: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+1730269310684	Marionette	INFO	Stopped listening on port 46297
+JavaScript warning: https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master, line 2: Script terminated by timeout at:
+e@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:24180
+e@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:24499
+e@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:24499
+e@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:24499
+e@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:24499
+a@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:25014
+47/t.prototype.isDifferentFromLastResult@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:30495
+next@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:34651
+i@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:49084
+47/e.prototype.queryListenerForObserver/k@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:50246
+47/e.prototype.broadcastQueries/</<@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:55819
+47/e.prototype.broadcastQueries/<@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:55795
+47/e.prototype.broadcastQueries@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:55745
+47/e.prototype.fetchRequest/k</g<@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:57686
+next@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:410994
+v@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:408805
+b@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409311
+value@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409865
+47/Q/</next/<@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:43198
+next@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:43160
+v@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:408805
+b@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409311
+value@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409865
+next@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:9278
+v@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:408805
+b@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409311
+value@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409865
+complete@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:352924
+v@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:408895
+b@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409311
+value@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409996
+v@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:408895
+b@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409311
+value@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409996
+v@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:408895
+b@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409311
+value@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/common.min.js?async=2&workspace=master:2:409996
+115/s/</</<@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/vtex.render-runtime@8.134.11/public/react/apollo.min.js?async=2&workspace=master:2:3393
+
+[2479723] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730269346605	geckodriver	INFO	Listening on 127.0.0.1:37255
+1730269347112	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "49127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileecDCmo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730269347948	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730269348119	Marionette	INFO	Listening on port 46819
+WebDriver BiDi listening on ws://127.0.0.1:49127
+Read port: 46819
+1730269348271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 235: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+1730269388608	Marionette	INFO	Stopped listening on port 46819
+[2480436] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730269412231	geckodriver	INFO	Listening on 127.0.0.1:51893
+1730269412734	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "50161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1efpyz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730269413725	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730269413976	Marionette	INFO	Listening on port 41951
+WebDriver BiDi listening on ws://127.0.0.1:50161
+Read port: 41951
+1730269414143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 235: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730269459520	Marionette	INFO	Stopped listening on port 41951
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1730271005337	geckodriver	INFO	Listening on 127.0.0.1:48473
+1730271005851	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "52971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD4Y4KK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730271006715	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1730271006890	Marionette	INFO	Listening on port 40641
+WebDriver BiDi listening on ws://127.0.0.1:52971
+Read port: 40641
+1730271007043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 96: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730271053937	Marionette	INFO	Stopped listening on port 40641
+[2482843] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730271105520	geckodriver	INFO	Listening on 127.0.0.1:40159
+1730271106028	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "58291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSEy6fj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730271106561	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730271106706	Marionette	INFO	Listening on port 36229
+WebDriver BiDi listening on ws://127.0.0.1:58291
+Read port: 36229
+1730271106848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 96: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730271156529	Marionette	INFO	Stopped listening on port 36229
+[2483585] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730271232719	geckodriver	INFO	Listening on 127.0.0.1:48679
+1730271233222	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "49769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexq0CDA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730271233696	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730271233841	Marionette	INFO	Listening on port 32937
+WebDriver BiDi listening on ws://127.0.0.1:49769
+Read port: 32937
+1730271233988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 96: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+1730271276784	Marionette	INFO	Stopped listening on port 32937
+[2484314] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730271373150	geckodriver	INFO	Listening on 127.0.0.1:60279
+1730271373657	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "59893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKiuT8c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730271374190	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730271374325	Marionette	INFO	Listening on port 36647
+WebDriver BiDi listening on ws://127.0.0.1:59893
+Read port: 36647
+1730271374471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 96: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730271425712	Marionette	INFO	Stopped listening on port 36647
+[2485062] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730272214140	geckodriver	INFO	Listening on 127.0.0.1:52987
+1730272214659	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "39627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIoNCN8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730272215192	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730272215345	Marionette	INFO	Listening on port 43907
+WebDriver BiDi listening on ws://127.0.0.1:39627
+Read port: 43907
+1730272215474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 96: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+1730272263132	Marionette	INFO	Stopped listening on port 43907
+1730272306644	geckodriver	INFO	Listening on 127.0.0.1:57877
+1730272307152	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "60687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez6jFdV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730272307688	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730272307838	Marionette	INFO	Listening on port 43381
+WebDriver BiDi listening on ws://127.0.0.1:60687
+Read port: 43381
+1730272307967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 96: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+1730272351369	Marionette	INFO	Stopped listening on port 43381
+[2486996] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730272483802	geckodriver	INFO	Listening on 127.0.0.1:52363
+1730272484306	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "57831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejXEGbA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730272484811	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730272484965	Marionette	INFO	Listening on port 45125
+WebDriver BiDi listening on ws://127.0.0.1:57831
+Read port: 45125
+1730272485112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 96: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730272529053	Marionette	INFO	Stopped listening on port 45125
+1730272576988	geckodriver	INFO	Listening on 127.0.0.1:54735
+1730272577507	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "60077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDxMPir"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730272578054	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730272578209	Marionette	INFO	Listening on port 44351
+WebDriver BiDi listening on ws://127.0.0.1:60077
+Read port: 44351
+1730272578353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 96: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+1730272621731	Marionette	INFO	Stopped listening on port 44351
+[2488529] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730272757254	geckodriver	INFO	Listening on 127.0.0.1:47145
+1730272757761	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "42081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenR4Z6K"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730272758327	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730272758473	Marionette	INFO	Listening on port 34471
+WebDriver BiDi listening on ws://127.0.0.1:42081
+Read port: 34471
+1730272758622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 96: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730272808502	Marionette	INFO	Stopped listening on port 34471
+1730273236699	geckodriver	INFO	Listening on 127.0.0.1:38947
+1730273237208	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "50067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0LVxsz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730273237738	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730273237901	Marionette	INFO	Listening on port 41093
+Read port: 41093
+WebDriver BiDi listening on ws://127.0.0.1:50067
+1730273237957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 92: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730273284893	Marionette	INFO	Stopped listening on port 41093
+[2490260] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730273548007	geckodriver	INFO	Listening on 127.0.0.1:52989
+1730273548515	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "37435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB7N4sU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730273549039	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730273549187	Marionette	INFO	Listening on port 41405
+WebDriver BiDi listening on ws://127.0.0.1:37435
+Read port: 41405
+1730273549333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 96: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730273593796	Marionette	INFO	Stopped listening on port 41405
+[2491141] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730275424553	geckodriver	INFO	Listening on 127.0.0.1:44157
+1730275425058	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "52959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHcBmHh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730275425628	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730275425759	Marionette	INFO	Listening on port 40031
+WebDriver BiDi listening on ws://127.0.0.1:52959
+Read port: 40031
+1730275425923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 164: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1730275731068	geckodriver	INFO	Listening on 127.0.0.1:45983
+1730275731590	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "57221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevpkSzU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730275732170	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730275732300	Marionette	INFO	Listening on port 39393
+WebDriver BiDi listening on ws://127.0.0.1:57221
+Read port: 39393
+1730275732457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 164: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730275777169	Marionette	INFO	Stopped listening on port 39393
+[2494496] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730275827430	geckodriver	INFO	Listening on 127.0.0.1:47133
+1730275827942	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "54515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehVwuJQ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730275828503	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730275828657	Marionette	INFO	Listening on port 42463
+WebDriver BiDi listening on ws://127.0.0.1:54515
+Read port: 42463
+1730275828812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 164: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730275877179	Marionette	INFO	Stopped listening on port 42463
+1730275982523	geckodriver	INFO	Listening on 127.0.0.1:58101
+1730275983035	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "44163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec8hwwY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730275983559	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730275983711	Marionette	INFO	Listening on port 38305
+WebDriver BiDi listening on ws://127.0.0.1:44163
+Read port: 38305
+1730275983864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 164: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730276033756	Marionette	INFO	Stopped listening on port 38305
+JavaScript warning: https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.react-vtexid@4.66.1,2,0,useGetPhoneNumberByEmail,useLogInWithAccessKey,useLogInWithPassword,useLogOut,useRedirectAfterLogin,useSendAccessCode,useSendAccessKey,useSetPassword,useStartLoginAttempt,validations&files=vtex.store-icons@0.18.0,IconArrowBack,IconEyeSight,IconProfile&files=tiendasjumboqaio.jumbo-buscador-multiple@2.0.1,common,BtnMultiplesTerminosB&files=vtex.login@2.65.0,common,1,2,Login&async=2&workspace=master, line 38: Script terminated by timeout at:
+o@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.react-vtexid@4.66.1,2,0,useGetPhoneNumberByEmail,useLogInWithAccessKey,useLogInWithPassword,useLogOut,useRedirectAfterLogin,useSendAccessCode,useSendAccessKey,useSetPassword,useStartLoginAttempt,validations&files=vtex.store-icons@0.18.0,IconArrowBack,IconEyeSight,IconProfile&files=tiendasjumboqaio.jumbo-buscador-multiple@2.0.1,common,BtnMultiplesTerminosB&files=vtex.login@2.65.0,common,1,2,Login&async=2&workspace=master:38:22008
+
+1730276212709	geckodriver	INFO	Listening on 127.0.0.1:53645
+1730276213220	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "60465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledUsgLT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730276213751	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730276213905	Marionette	INFO	Listening on port 37861
+WebDriver BiDi listening on ws://127.0.0.1:60465
+Read port: 37861
+1730276214038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 164: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730276261789	Marionette	INFO	Stopped listening on port 37861
+1730276509073	geckodriver	INFO	Listening on 127.0.0.1:35297
+1730276509595	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "41685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLdfpub"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730276510129	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730276510262	Marionette	INFO	Listening on port 39347
+WebDriver BiDi listening on ws://127.0.0.1:41685
+Read port: 39347
+1730276510415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 164: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+1730276553307	Marionette	INFO	Stopped listening on port 39347
+[2497894] Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1730279573165	geckodriver	INFO	Listening on 127.0.0.1:53117
+1730279573683	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ed" "--remote-debugging-port" "35887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZz4syg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1730279574277	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-start-maximized"
+1730279574431	Marionette	INFO	Listening on port 46751
+WebDriver BiDi listening on ws://127.0.0.1:35887
+Read port: 46751
+1730279574599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript error: https://www.tiendasjumbo.co/supermercado/despensa/aceite, line 217: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://api.retargetly.com/loader?id=2144, line 3: Error: Retargetly script has been already defined
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.tiendasjumbo.co&origin=onetag#{%22bundle%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22cw%22:true,%22optout%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22origin%22:%22onetag%22,%22tld%22:%22tiendasjumbo.co%22,%22topUrl%22:%22www.tiendasjumbo.co%22,%22version%22:%225_29_0%22,%22ifa%22:{%22identifierExtractor%22:{%22origin%22:0},%22value%22:null},%22lsw%22:true,%22pm%22:0}:13:3642
+
+1730279627489	Marionette	INFO	Stopped listening on port 46751
+JavaScript warning: https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.react-vtexid@4.66.1,2,0,useGetPhoneNumberByEmail,useLogInWithAccessKey,useLogInWithPassword,useLogOut,useRedirectAfterLogin,useSendAccessCode,useSendAccessKey,useSetPassword,useStartLoginAttempt,validations&files=vtex.store-icons@0.18.0,IconArrowBack,IconEyeSight,IconProfile&files=tiendasjumboqaio.jumbo-buscador-multiple@2.0.1,common,BtnMultiplesTerminosB&files=vtex.login@2.65.0,common,1,2,Login&async=2&workspace=master, line 38: Script terminated by timeout at:
+o@https://jumbocolombiaio.vtexassets.com/_v/public/assets/v1/published/bundle/public/react/asset.min.js?v=1&files=vtex.react-vtexid@4.66.1,2,0,useGetPhoneNumberByEmail,useLogInWithAccessKey,useLogInWithPassword,useLogOut,useRedirectAfterLogin,useSendAccessCode,useSendAccessKey,useSetPassword,useStartLoginAttempt,validations&files=vtex.store-icons@0.18.0,IconArrowBack,IconEyeSight,IconProfile&files=tiendasjumboqaio.jumbo-buscador-multiple@2.0.1,common,BtnMultiplesTerminosB&files=vtex.login@2.65.0,common,1,2,Login&async=2&workspace=master:38:22008
+
