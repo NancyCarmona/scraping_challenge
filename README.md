@@ -93,3 +93,9 @@ Respuesta de prueba:
     ],
     "url": "https://www.tiendasjumbo.co/supermercado/despensa/aceite"
 }
+
+
+comandos:
+docker build -t scraping_challenge .
+
+docker run  --rm -p 5000:5000 --name challenge_service scraping_challenge
